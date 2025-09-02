@@ -1,0 +1,4 @@
+﻿Método,Promedio_MAD,Promedio_MAPE,Promedio_ACC,Casos_validados,Mediana_MAD,Mediana_MAPE,Mediana_ACC
+Exponential Smoothing,96.9901,2599.45,-24.9945,1026,84.6035,1288.53,-11.8853
+Moving Average,104.8796,2693.52,-25.9352,1026,95.85,1158.06,-10.5806
+Linear Regression,108.5778,2946.47,-28.4647,1026,86.968,1541.1,-14.411
